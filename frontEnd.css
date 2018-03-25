@@ -1,0 +1,97 @@
+body {
+  padding-top: 60px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.color-change {
+  border-radius: 5px;
+  font-size: 10px;
+  padding: 7px 40px;
+  cursor: pointer;
+  color: #fff;
+  background-color: #00A6FF;
+  font-size: 1.5rem;
+  font-family: 'Roboto';
+  font-weight: 100;
+  border: 1px solid #fff;
+  box-shadow: 2px 2px 5px #AFE9FF;
+  transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+}
+
+.color-change:hover {
+  color: #006398;
+  border: 1px solid #006398;
+  box-shadow: 2px 2px 20px #AFE9FF;
+}
+
+button.color-change {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+h1 {
+ font-family: sans-serif;
+ background-color: rgb(255, 255, 255);
+}
+h3 {
+ color: rgb(255, 0, 0);
+}
+o1 {font-family: cursive;
+}
+#mainnav a:link{
+	color:Blue;
+}
+#mainnav a:visited{
+	color:#68945C;
+}
+#mainnav a:hover{
+	color:#B6D6AB;
+}
+#mainnav a:active{
+	color:#B6D6AB;
+}
+#mainnav{
+	font-family:'Raleway',sans-serif;
+	text-align:right; 
+	font-size:1.5em;
+}
+#homebackground{
+	background-color: rgb(157, 203, 249);
+	}
+	
+#parkbackground{
+	background-color: rgb(157, 203, 249);
+	}
+	
+#markbackground{
+	background-color: rgb(157, 203, 249);
+	}
+	
+#SanFran{
+  height: 50px;
+  width: 300px;
+  
+}
+	
+.homenav
+	
+	body {font: normal 300 .8em 'Open Sans', sans-serif; overflow-x: hidden;}
+        ul {text-align: right; width: 100%; background-color: #999; height: 20px;}
+        li {float: right;}
+        ul a {color: white; padding: 0 10px; text-decoration: none;}
+        ul a:hover {color: #333;}
+
+ .navbar navbar-inverse navbar-embossed {
+    position: relative;
+    background: url(../images/logo.png);
+    width: 170px;
+    left: 15px;
+    background-size: contain;
+}
+
+
+body {
+	font-family: sans-serif;
+}
